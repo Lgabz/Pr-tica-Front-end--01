@@ -1,6 +1,9 @@
 body {
-  padding: 100px;
   background: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 .card {
   margin: 0 auto;
@@ -44,7 +47,7 @@ body {
 .li {
   list-style-type: none;
 }
-.lista p {
+span {
   position: absolute;
   width: 76px;
   height: 26px;
@@ -53,37 +56,24 @@ body {
   line-height: 26px;
   font-weight: 600;
   color: #494949;
-  margin: 298px 10px 238px 30px;
+  margin-top: 300px;
+  margin-left: 70px;
 }
-.lista li {
-  margin-top: 343px;
-  margin-bottom: 30px;
+.lista {
+  margin-top: 340px;
+  margin-left: 20px;
 }
-
-.lista li {
-  display: inline-block;
+.li {
+  position: relative;
   font-family: 'Lato', sans-serif;
+  display: inline-block;
   background: #eff5ff;
-  padding: 10px 20px;
   border-radius: 45px;
   color: #2e29ff;
   font-weight: 600;
-
+  padding: 10px 20px;
   margin-right: 10px;
   margin-bottom: 10px;
-}
-.lista .li-1 {
-  margin-left: 40px;
-}
-.lista .li-4 {
-  margin-right: 58px;
-}
-.lista .li-5 {
-  margin-top: 0;
-  margin-left: 40px;
-}
-.lista .li-6 {
-  margin-top: 0;
 }
 .link a {
   text-decoration: none;
@@ -91,7 +81,7 @@ body {
   padding: 11px 32px;
   width: 77px;
   height: 26px;
-  margin: 0px 357px 61px 102px;
+  margin: 0px 0px 61px 102px;
   background-color: #000000;
   color: #ffffff;
   border-radius: 10px;
