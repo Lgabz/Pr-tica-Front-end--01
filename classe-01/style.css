@@ -1,0 +1,77 @@
+body {
+  padding: 100px;
+  background-color: #e5e5e5;
+}
+.card {
+  width: 432px;
+  height: 389px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+.card img {
+  width: 86px;
+  height: 86px;
+  margin: 7px 173px auto;
+  margin-bottom: 29px;
+  text-align: center;
+}
+.card p {
+  font-family: 'Roboto', sans-serif;
+  margin: auto;
+  width: 327px;
+  height: 48px;
+  margin-bottom: 40px;
+  font-size: 18px;
+  text-align: center;
+}
+.card a {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 14px 63px;
+  background-color: #ed6755;
+  border-radius: 5px;
+  margin: 0 116px 70px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+.card-azul {
+  width: 432px;
+  height: 389px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin: 134px auto 102px;
+  text-align: center;
+}
+.card-azul img {
+  width: 82px;
+  height: 82px;
+  margin: 0px 175px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.card-azul p {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px auto;
+  width: 203px;
+  height: 48px;
+  margin-bottom: 46px;
+  font-size: 18px;
+  text-align: center;
+}
+.card-azul a {
+  text-decoration: none;
+  color: #ffffff;
+  padding: 14px 50px;
+  background-color: #1c1b5e;
+  border-radius: 5px;
+  margin: 0 116px 70px;
+  text-align: center;
+}
+.btn-fechar img {
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  margin: 30px 30px;
+  margin-left: 372px;
+}

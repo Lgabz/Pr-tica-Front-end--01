@@ -1,0 +1,55 @@
+body {
+  background-color: #456392;
+  padding: 100px;
+}
+.card {
+  width: 608px;
+  height: 728px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+.card img {
+  position: absolute;
+  width: 206px;
+  height: 206px;
+  border-radius: 50%;
+  margin: 80px 201px 60px 201px;
+}
+.card h1 {
+  position: absolute;
+  width: 284px;
+  height: 60px;
+  font-family: 'Mulish', sans-serif;
+  font-size: 48px;
+  line-height: 60px;
+  text-align: center;
+  font-weight: bold;
+  color: #131e30;
+  margin: 346px 162px 322px 162px;
+}
+.card p {
+  position: absolute;
+  width: 124px;
+  height: 45px;
+  font-family: 'Mulish', sans-serif;
+  font-size: 36px;
+  line-height: 45px;
+  font-weight: normal;
+  text-align: center;
+  color: #131e30;
+  margin: 411px 242px 272px;
+}
+.seguidores p {
+  position: absolute;
+  width: 256px;
+  height: 90px;
+  font-family: 'Mulish', sans-serif;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 45px;
+  text-align: center;
+  color: #000000;
+  margin: 548px 176px 90px;
+  padding: 0;
+}
